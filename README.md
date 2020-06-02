@@ -15,6 +15,7 @@ don't forget to redirect the standard output to a file
 ```.run.bat >> results.txt```
 
 ## Results so far:
+  for detailed data for each run refere to **Results.md**
 
 |**language** | itterations | avg. time taken | min | max
 |--------|:-------------:|:------------------:|:-----:|----:
