@@ -1,0 +1,13 @@
+C:\Users\Yassine\Documents\Mes Projets C#\Fun\Console Applications\C vs C#\C#\bin\release\netcoreapp3.1\CS Test.exe
+C:\Users\Yassine\Documents\Mes Projets C#\Fun\Console Applications\C vs C#\C#\bin\release\netcoreapp3.1\CS Test.deps.json
+C:\Users\Yassine\Documents\Mes Projets C#\Fun\Console Applications\C vs C#\C#\bin\release\netcoreapp3.1\CS Test.runtimeconfig.json
+C:\Users\Yassine\Documents\Mes Projets C#\Fun\Console Applications\C vs C#\C#\bin\release\netcoreapp3.1\CS Test.runtimeconfig.dev.json
+C:\Users\Yassine\Documents\Mes Projets C#\Fun\Console Applications\C vs C#\C#\bin\release\netcoreapp3.1\CS Test.dll
+C:\Users\Yassine\Documents\Mes Projets C#\Fun\Console Applications\C vs C#\C#\bin\release\netcoreapp3.1\CS Test.pdb
+C:\Users\Yassine\Documents\Mes Projets C#\Fun\Console Applications\C vs C#\C#\obj\release\netcoreapp3.1\CS Test.csprojAssemblyReference.cache
+C:\Users\Yassine\Documents\Mes Projets C#\Fun\Console Applications\C vs C#\C#\obj\release\netcoreapp3.1\CS Test.csproj.CoreCompileInputs.cache
+C:\Users\Yassine\Documents\Mes Projets C#\Fun\Console Applications\C vs C#\C#\obj\release\netcoreapp3.1\CS Test.AssemblyInfoInputs.cache
+C:\Users\Yassine\Documents\Mes Projets C#\Fun\Console Applications\C vs C#\C#\obj\release\netcoreapp3.1\CS Test.AssemblyInfo.cs
+C:\Users\Yassine\Documents\Mes Projets C#\Fun\Console Applications\C vs C#\C#\obj\release\netcoreapp3.1\CS Test.dll
+C:\Users\Yassine\Documents\Mes Projets C#\Fun\Console Applications\C vs C#\C#\obj\release\netcoreapp3.1\CS Test.pdb
+C:\Users\Yassine\Documents\Mes Projets C#\Fun\Console Applications\C vs C#\C#\obj\release\netcoreapp3.1\CS Test.genruntimeconfig.cache
